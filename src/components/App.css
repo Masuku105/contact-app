@@ -22,10 +22,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'Segoe UI';
 }
 
 .App-link {
   color: #61dafb;
+}
+.App.page {
+  background-color: #e1e3e7;
 }
 
 @keyframes App-logo-spin {
